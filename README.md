@@ -27,3 +27,9 @@ nvm use
 # Start the server
 npm run dev
 ```
+
+## Screenshots
+
+| | | | |
+|-|-|-|-|
+|![Hello](https://github.com/ByPort/valentines-day-card/assets/7266338/cf3cdc6b-61c0-4146-b900-3c22604571c5)|![Jigsaw unsolved](https://github.com/ByPort/valentines-day-card/assets/7266338/7cdf399d-8ecd-4b35-9c6b-16483aa483b9)|![Jigsaw solved](https://github.com/ByPort/valentines-day-card/assets/7266338/99900feb-075c-4f10-84cb-9ae35ee1854b)|![Congratulations](https://github.com/ByPort/valentines-day-card/assets/7266338/3c81c1d6-2efa-4bbd-b86c-835700847d4f)|
