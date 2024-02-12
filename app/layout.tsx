@@ -4,7 +4,7 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: process.env.NEXT_PUBLIC_TITLE,
+  title: "Валентинка для любимой Анастасии",
 }
 
 export default function RootLayout({

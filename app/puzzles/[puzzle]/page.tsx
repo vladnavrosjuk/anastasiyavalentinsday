@@ -5,7 +5,7 @@ import { useEffect, useRef, useState } from 'react';
 import Link from 'next/link';
 import puzzles from '../puzzles';
 
-const EASYMODE = ['true', 'y', 'yes'].includes(process.env.NEXT_PUBLIC_EASYMODE!.toLowerCase());
+const EASYMODE = false;
 
 export default function Puzzle({ params }: { params: { puzzle: string } }) {
     const containerRef = useRef<any>(null)
